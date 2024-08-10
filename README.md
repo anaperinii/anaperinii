@@ -2,6 +2,7 @@
 
 <p align="left"> 
   Hi, I'm Ana Luisa and I'm studying Software Engineering. Constantly developing my skills and projects as a Back-End Developer and passionate about the world of Data Science.
+  Enthusiastic about applying all my knowledge and passion to new challenges, projects that impact the community and opportunities.
 </p>
 
 ### Skills
