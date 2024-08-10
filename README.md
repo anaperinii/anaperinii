@@ -8,7 +8,6 @@
 ![Java](https://img.shields.io/badge/Java-9370DB?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
-![Jupyter](https://img.shields.io/badge/Jupyter-9932CC.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-4B0082?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-DA70D6?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
