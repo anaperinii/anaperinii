@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=C&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-420073?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4B0082?style=for-the-badge&logo=postman&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-5C2D91?style=for-the-badge&logo=react&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-5C2D91?style=for-the-badge&logo=electron&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
 ![Liquibase](https://img.shields.io/badge/Liquibase-870056?style=for-the-badge&logo=liquibase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-b35691?style=for-the-badge&logo=sql&logoColor=white)
