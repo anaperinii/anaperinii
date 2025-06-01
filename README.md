@@ -14,12 +14,11 @@
 ![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=C&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-420073?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4B0082?style=for-the-badge&logo=postman&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-5C2D91?style=for-the-badge&logo=electron&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-5C2D91?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
 ![Liquibase](https://img.shields.io/badge/Liquibase-870056?style=for-the-badge&logo=liquibase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-b35691?style=for-the-badge&logo=sql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-FFA07A?style=for-the-badge&logo=hibernate&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-F08080?style=for-the-badge&logo=junit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-b35691?style=for-the-badge&logo=mysql&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-FFA07A?style=for-the-badge&logo=junit&logoColor=white)
 
 <br>
 
