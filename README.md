@@ -25,7 +25,7 @@
 
 <samp># about</samp>
 
-<samp>software engineering student - developer intern - knowledge seeker </samp>
+<samp>software engineering student - back-end developer intern - knowledge seeker </samp>
 
 <h2></h2><br>
 
