@@ -18,14 +18,14 @@
 ![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
 ![Liquibase](https://img.shields.io/badge/Liquibase-870056?style=for-the-badge&logo=liquibase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-b35691?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-ff7a92?style=for-the-badge&logo=angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-ff7a92?style=for-the-badge&logo=electron&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit-e15c74?style=for-the-badge&logo=junit&logoColor=white)
 
 <br>
 
 <samp># about</samp>
 
-<samp>software engineering student - back-end developer intern - knowledge seeker </samp>
+<samp>software engineering student - full stack developer intern - knowledge seeker </samp>
 
 <h2></h2><br>
 
