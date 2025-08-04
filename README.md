@@ -12,7 +12,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-7B68EE?style=for-the-badge&logo=springboot&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=C&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-420073?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-420073?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-5C2D91?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
