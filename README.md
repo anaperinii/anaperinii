@@ -13,13 +13,13 @@
 ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-420073?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-5C2D91?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-8B008B?style=for-the-badge&logo=apachemaven&logoColor=#E35A16)
-![Liquibase](https://img.shields.io/badge/Liquibase-870056?style=for-the-badge&logo=liquibase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-b35691?style=for-the-badge&logo=mysql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-ff7a92?style=for-the-badge&logo=electron&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit-e15c74?style=for-the-badge&logo=junit&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-8B008B?style=for-the-badge&logo=hibernate&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-870056?style=for-the-badge&logo=prisma&logoColor=#E35A16)
+![Liquibase](https://img.shields.io/badge/Liquibase-b35691?style=for-the-badge&logo=liquibase&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ff7a92?style=for-the-badge&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-e15c74?style=for-the-badge&logo=electron&logoColor=white)
 
 <br>
 
