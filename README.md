@@ -13,7 +13,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-420073?style=for-the-badge&logo=javascript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-4B0082?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-5C2D91?style=for-the-badge&logo=react&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-8B008B?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-870056?style=for-the-badge&logo=prisma&logoColor=#E35A16)
