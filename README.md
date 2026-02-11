@@ -13,7 +13,7 @@
 
   <samp># about</samp>
 
-  <samp>software engineering student — full stack developer intern — backend-oriented, driven by deep server-side engineering </samp>
+  <samp>software engineering student — full stack developer — backend-oriented, driven by deep server-side engineering </samp>
 
   <h2></h2><br>
 
