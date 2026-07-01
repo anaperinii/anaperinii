@@ -5,7 +5,7 @@
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=nestjs,graphql,redis,java,jest" />
-    <img src="https://skillicons.dev/icons?i=postgres,ts,prisma,docker,react" />
+    <img src="https://skillicons.dev/icons?i=postgres,kali,ts,prisma,docker,react,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=kafka,spring,mongodb,mysql" />
   </div>
 
